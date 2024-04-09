@@ -22,7 +22,7 @@ function BookList() {
   return (
     <div>
       <h2>Book List</h2>
-      <ul>
+      <ul className="book-list">
         {data.books.map((book) => (
           <li key={book.id}>
             {book.title} by {book.author}

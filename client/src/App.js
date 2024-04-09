@@ -6,7 +6,7 @@ import AddBookForm from "./components/AddBookForm";
 
 function App() {
   return (
-    <div>
+    <div class="container">
       <h1>My Bookshelf</h1>
       <BookList />
       <AddBookForm />
