@@ -6,4 +6,5 @@ Sample app integrating Appollo Client, React and GraphQL
 Navigate to both client and server and run `npm start`
 
 ## Screenshot of App
-![Screenshot 2024-04-09 at 12 31 54 AM](https://github.com/rollinmendez000/appollo-react-gql/assets/7286522/af172434-95fa-4004-aedf-9df68b18201d)
+
+![Screenshot 2024-04-09 at 12 44 03 AM](https://github.com/rollinmendez000/appollo-react-gql/assets/7286522/1723db89-be63-4bb0-afcc-3050e523d637)
